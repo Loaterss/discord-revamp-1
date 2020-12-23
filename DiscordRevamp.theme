@@ -1,0 +1,10 @@
+/**
+ * @name Discord Revamp
+ * @version 1.0
+ * @description A revamped discord, inspired by the discord's current website.
+ * @source https://github.com/eternal/discord-revamp
+ * @authorId 426147523305144322
+ * @author eternal
+**/
+
+@import url(https://slow.github.io/discord-revamp/src/source.css);
